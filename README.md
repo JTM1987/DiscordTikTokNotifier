@@ -114,7 +114,5 @@ DiscordNotifier/
 - The app connects to live streams in real-time, so users must be live (or have recently gone live) for the connection to work
 - TikTokLive library uses TikTok's internal WebSocket API, which may be subject to changes
 
-## License
 
-This project is open source and available for personal use.
 
